@@ -1,0 +1,62 @@
+newmtl GC_main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gc_fighter01.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl GC_Elite
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gc_elite_256_b.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl GC_equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gc_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl GC_engine
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gc_exaust.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl GC_equip_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gc_equip.jpg"
+Ke 15.754792899408285
+Pr 0.25
+Pm 0
+Ps 0
+newmtl GC_screen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "GC_screen.png"
+Ke 8.01325443786982
+Pr 0.25
+Pm 0
+Ps 0
+newmtl GC_glass
+Kd 1 0.5764705882352941 0
+d 0.4
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

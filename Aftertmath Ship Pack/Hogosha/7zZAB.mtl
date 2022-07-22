@@ -1,0 +1,71 @@
+newmtl Hogoshan_Main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_main.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_Glass
+Kd 0 0 0
+d 0.19
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_Equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_Equip_Accent
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_equip.jpg"
+Ke 10.437869822485208
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_Exaust
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_exaust.png"
+Ke 2.6594082840236686
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_Wing
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_wings.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_trim
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_trim.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Hogosha_Secondary
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "hogosha_secondary.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

@@ -1,0 +1,53 @@
+newmtl main_xeno
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "xeno_main.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glass_xeno
+Kd 1 1 1
+d 0.37
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equipment_xeno
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Equip_gen.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equipment_xeno_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Equip_gen.png"
+Ke 7.499171597633136
+Pr 0.25
+Pm 0
+Ps 0
+newmtl exaust_xeno
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exaust_xeno.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl main_xeno_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "xeno_main.png"
+Ke 6.680236686390535
+Pr 0.25
+Pm 0
+Ps 0

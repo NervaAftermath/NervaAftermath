@@ -1,0 +1,53 @@
+newmtl main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "player  1.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Equip_gen.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exhaust.png"
+Ke 1.4400000000000004
+Pr 0.25
+Pm 0
+Ps 0
+newmtl windows
+Kd 0.047058823529411764 0.4549019607843137 0.6431372549019607
+d 0.36
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl 3
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "3.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl grill
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "engine_grill01.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

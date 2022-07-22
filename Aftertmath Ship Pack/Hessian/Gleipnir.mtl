@@ -1,0 +1,44 @@
+newmtl main_hessian
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "main_hessian.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl windows_hessian
+Kd 0.03137254901960784 0.00392156862745098 0.00392156862745098
+d 0.66
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equip_hessian
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "equip_hess.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glow_hessian
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "main_hessian.png"
+Ke 4.907928994082839
+Pr 0.25
+Pm 0
+Ps 0
+newmtl exaust_hessian
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exhaustm.png"
+Ke 15.754792899408285
+Pr 0.25
+Pm 0
+Ps 0

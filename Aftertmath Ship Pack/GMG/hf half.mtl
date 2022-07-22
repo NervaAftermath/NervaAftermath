@@ -1,0 +1,62 @@
+newmtl engine_128
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "engine_128.png"
+Ke 4.772544378698226
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equip_gen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Equip_gen.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl handrail
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Hand Rail.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl handrail2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Hand Rail 2.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl windows
+Kd 0.3333333333333333 0.06666666666666667 0.06666666666666667
+d 0.56
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl lighlf
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Equip_gen.png"
+Ke 14.323313609467455
+Pr 0.25
+Pm 0
+Ps 0
+newmtl engshine
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "engine_128.png"
+Ke 7.499171597633134
+Pr 0.25
+Pm 0
+Ps 0

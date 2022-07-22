@@ -1,0 +1,79 @@
+newmtl main.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glass.001
+Kd 0 0 0
+d 0.64
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_main.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_secondary.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_secondary.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_equipment.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_trim.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_trim.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_engine.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_engine.png"
+Ke 8.725207100591717
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_equip_glow.001
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_equip.jpg"
+Ke 14.091360946745562
+Pr 0.25
+Pm 0
+Ps 0
+newmtl img_windows
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "img_engine.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

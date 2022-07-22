@@ -1,0 +1,44 @@
+newmtl ageira_exaust
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "ageira_exaust.png"
+Ke 2.760710059171598
+Pr 0.25
+Pm 0
+Ps 0
+newmtl ageira_main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "ageira_main.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl ageira_equipment
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "ageira_equip.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl ageira_glass
+Kd 0.17254901960784313 0.36470588235294116 0.8705882352941177
+d 0.59
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl ageira_equipment_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "ageira_equip.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

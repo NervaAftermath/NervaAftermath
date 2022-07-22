@@ -1,0 +1,53 @@
+newmtl RS_main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "RS_main.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl RS_secondary
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "RS_secondar.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl RS_equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "RS_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl RS_equip_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "RS_equip_glow.png"
+Ke 0.9688616331360947
+Pr 0.25
+Pm 0
+Ps 0
+newmtl RS_glass
+Kd 0.984313725490196 0.07450980392156863 0.07450980392156863
+d 0.59
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl RS_screen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "RS_screen.jpg"
+Ke 20.737514792899407
+Pr 0.25
+Pm 0
+Ps 0

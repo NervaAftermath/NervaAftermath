@@ -1,0 +1,62 @@
+newmtl unioners_engine
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "rh_un.png"
+Ke 3.184852071005917
+Pr 0.25
+Pm 0
+Ps 0
+newmtl unioners_glass
+Kd 0 0.00392156862745098 0
+d 0.64
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl unioners_main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "unioners_main.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl unioners_screen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "texture .jpg"
+Ke 36
+Pr 0.25
+Pm 0
+Ps 0
+newmtl unioners_screen1
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "texture2.jpg"
+Ke 36
+Pr 0.25
+Pm 0
+Ps 0
+newmtl unioners_hdequip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "unioner_hd_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl unioners_hdequip_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "unioner_hd_equip.jpg"
+Ke 6.840236686390533
+Pr 0.25
+Pm 0
+Ps 0

@@ -1,0 +1,72 @@
+newmtl Metal03
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "metal03.jpeg"
+Ke 0.16000000000000003
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Liberty3_256
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "liberty3_256.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl LR_Winds
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "L_R_wnds_256.jpeg"
+Ke 2.9689940828402364
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Liberty2_256
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "liberty2_256.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Liberty1_256
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "liberty1_256.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Drd_interior3
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "drd_interior3.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equipment
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Equip_mstr.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl exaust
+Kd 0 0.4980392156862745 0.9294117647058824
+d 1
+Ks 1 1 1
+map_Kd "exhaust.jpg"
+Ke 19.631715976331364
+Pr 0.25
+Pm 0
+Ps 0

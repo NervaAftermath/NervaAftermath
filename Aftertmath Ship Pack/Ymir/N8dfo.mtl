@@ -1,0 +1,25 @@
+newmtl body
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "rheinland-vhf.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl body_NONE
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glass
+Kd 0.01568627450980392 0.4196078431372549 0.18823529411764706
+d 0.45
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

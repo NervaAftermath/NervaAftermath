@@ -1,0 +1,26 @@
+newmtl body
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "rheinland-vhf.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl body_NONE
+Kd 0.5764705882352941 1 0
+d 1
+Ks 1 1 1
+Ke 36
+Pr 0.25
+Pm 0
+Ps 0
+newmtl windows
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "SL_windows_128.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

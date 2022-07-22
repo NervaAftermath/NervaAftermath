@@ -1,0 +1,63 @@
+newmtl br3
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "3.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl b_player01_256
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "player  1.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl exhaust
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exhaust.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl b_player03_256
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "b_player03_256.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl b_player02_252
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "2.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl int3
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "drd_interior3.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl windows
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "B-dtl3.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

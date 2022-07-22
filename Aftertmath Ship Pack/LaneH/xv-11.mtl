@@ -1,0 +1,44 @@
+newmtl Main_LH
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "main_LH.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Windows
+Kd 1 0.8784313725490196 0
+d 0.44
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Engine_LH
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exhaustlh.png"
+Ke 7.165917159763315
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Equipment_LH
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "equip_hess.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Glow_Accents_LH
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "lh_accents_glow.png"
+Ke 36
+Pr 0.25
+Pm 0
+Ps 0

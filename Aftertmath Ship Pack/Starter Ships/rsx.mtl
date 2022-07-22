@@ -1,0 +1,71 @@
+newmtl Main_BrCiv
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "main_bret.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Glass_BrCiv
+Kd 0.5294117647058824 0.10588235294117647 0.023529411764705882
+d 0.5
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl 1_BrCiv
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "player  1.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl 2_BrCiv
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "2.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl BrCiv_sails
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exhaust.png"
+Ke 4.507455621301776
+Pr 0.25
+Pm 0
+Ps 0
+newmtl BrCiv_Equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bret_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl BrCiv_accents
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "sail_accents.jpg"
+Ke 18.02982248520709
+Pr 0.25
+Pm 0
+Ps 0
+newmtl BrCiv_Screen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "brciv_screen.jpg"
+Ke 34.1775147928994
+Pr 0.25
+Pm 0
+Ps 0

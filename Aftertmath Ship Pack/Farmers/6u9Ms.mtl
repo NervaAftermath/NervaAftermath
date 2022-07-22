@@ -1,0 +1,44 @@
+newmtl fr_trim
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "fr_trim.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl fr_equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "fr_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl fr_glass
+Kd 0.37254901960784315 1 0
+d 0.36
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl fr_engine
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "fr_exaust.png"
+Ke 9.27905325443787
+Pr 0.25
+Pm 0
+Ps 0
+newmtl fr_accents
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "fr_accent.jpg"
+Ke 23.040000000000006
+Pr 0.25
+Pm 0
+Ps 0

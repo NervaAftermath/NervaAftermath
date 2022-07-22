@@ -1,0 +1,62 @@
+newmtl Gaians_Main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "main_gaia.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Gaians_windows
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gaia_windows.png"
+Ke 1.4400000000000004
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Gaians_1
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gaia_1.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Gaians_2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gaia_2.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Gaians_3
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gaia_3.png"
+Ke 8.365443786982247
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Gaians_equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "gainas_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Gaian_screen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

@@ -1,0 +1,52 @@
+newmtl Material.007
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl cockopito
+Kd 0 0 0
+d 0.49
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl exhaustOSC
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "atkys-evjmt.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl osc4
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "aat33-bqx6c.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl osc5
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "aat33-bqx6c.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl osc6
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "af4h4-upgvw.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

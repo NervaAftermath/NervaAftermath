@@ -1,0 +1,55 @@
+newmtl main2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "g_fighter01.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl equip_2
+Kd 1 1 1
+d 1
+Ks 0.5019607843137255 0.5019607843137255 0.5019607843137255
+Ke 0
+map_ao "g_fighter01.png"
+Pr 0.24102564102564103
+Pm 0
+Ps 0
+newmtl wind
+Kd 0.011764705882352941 0.027450980392156862 0.12941176470588234
+d 0.69
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl main34
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "g_fightercockpit.png"
+Ke 0.9694674556213019
+map_ao "g_fightercockpit.png"
+Pr 0.25
+Pm 0
+Ps 0
+newmtl main34_g_fighter01.dds
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "g_fighter01.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glow_sh2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_ke "g_fightercockpit.png"
+KeD 0
+Ke 4.976331360946744
+Pr 0.25
+Pm 0
+Ps 0

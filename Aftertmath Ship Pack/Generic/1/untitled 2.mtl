@@ -1,0 +1,35 @@
+newmtl main2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "g_fighter01.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl wind
+Kd 0.1843137254901961 0.30196078431372547 0.8941176470588235
+d 0.64
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl main34
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "g_fightercockpit.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl glow_sh2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "g_fightercockpit.png"
+Ke 7.499171597633136
+Pr 0.25
+Pm 0
+Ps 0

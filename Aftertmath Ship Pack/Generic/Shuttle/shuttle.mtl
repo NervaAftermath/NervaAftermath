@@ -1,0 +1,54 @@
+newmtl Material.007
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl cockopito
+Kd 0.9529411764705882 0.9529411764705882 0.9529411764705882
+d 0.48
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl exhaustOSC
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "atkys-evjmt.png"
+map_ke "atkys-evjmt.png"
+KeD 0
+Ke 2.2269822485207103
+Pr 0.25
+Pm 0
+Ps 0
+newmtl osc4
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "ay86r-8wpfv.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl osc5
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "aat33-bqx6c.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl osc6
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "af4h4-upgvw.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

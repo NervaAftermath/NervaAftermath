@@ -1,0 +1,71 @@
+newmtl junker_main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "junker_main.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl junker_glass
+Kd 1 0.5764705882352941 0
+d 0.41
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl junker_engine
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "exhaustjunker.png"
+Ke 1.5914792899408283
+Pr 0.25
+Pm 0
+Ps 0
+newmtl junker_secondary
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "junker_secondary.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl junker_equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "junkers_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl junker_equip_glow
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "junkers_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl screen_texture_junker
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "screen_junker.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl junkers_metal_accents
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "junkers_metal_accent.png"
+Ke 2.003313609467455
+Pr 0.25
+Pm 0
+Ps 0

@@ -1,0 +1,36 @@
+newmtl SL_Equip_gen
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "SL_Equip_gen.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl pirate_hull4
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "p_fighter03.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl p2_material
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "p_fighter02.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl windows_p
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "SL_windows_128.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0

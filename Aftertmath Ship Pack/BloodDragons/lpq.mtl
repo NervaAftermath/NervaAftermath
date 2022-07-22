@@ -1,0 +1,70 @@
+newmtl Default_OBJ
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_panel1.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Glass
+Kd 1 1 1
+d 1
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Equip_Accent
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_accents.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Exaust
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_exaust.png"
+Ke 21.585316
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Wing
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_wings.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_trim
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_trim.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Windows
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_exaust.png"
+Ke 19.359999999999996
+Pr 0.25
+Pm 0
+Ps 0

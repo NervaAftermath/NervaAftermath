@@ -1,0 +1,80 @@
+newmtl Dragon_Main
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_panel1.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Glass
+Kd 1 1 1
+d 0.36
+Ks 1 1 1
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Equip
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_equip.jpg"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Equip_Accent
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_accents.png"
+Ke 5.613254437869823
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Exaust
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_exaust.png"
+Ke 5.184378698224852
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Wing
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_wings.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_trim
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_trim.png"
+Ke 0
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Screen1
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "dragon_screen.png"
+Ke 36
+Pr 0.25
+Pm 0
+Ps 0
+newmtl Dragon_Screen2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "bd_screen_ui.jpg"
+Ke 1.1597633136094674
+Pr 0.25
+Pm 0
+Ps 0
